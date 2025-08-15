@@ -1,0 +1,2 @@
+This test is written from main
+This is message written from GitNewBranch
